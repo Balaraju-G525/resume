@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Balu
+# 👋 Hi, I'm Bala Raju
 
 🎓 B.Tech Computer Science Engineering | Final Year
 
