@@ -9,12 +9,6 @@ and building real-world applications.
 
 ---
 
-## 📄 Resume
-
-👉 [View My Resume](./RESUME-1 (1).pdf)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website
